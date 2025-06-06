@@ -47,7 +47,7 @@ A detailed cheat sheet & walkthrough for this scenario is available [here](./che
 - EC2 instance metadata service (IMDSv2) exploitation
 - AWS STS federation URL generation
 - Privilege escalation via IAM role assumption
-- Detection and prevention strategies
+- Map techniques to MITRE ATT&CK (e.g., T1078.004, T1580, T1552.005)
 
 ## Cloud Security Topics Covered
 
